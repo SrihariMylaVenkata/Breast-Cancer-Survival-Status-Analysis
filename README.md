@@ -1,1 +1,1 @@
-I analyzed biological and clinical data of breast cancer patients, applying machine learning models like XGBoost and Random Forest. Logistic regression achieved 85% accuracy in predicting survival rates, and statistical testing identified key variable correlations.
+
